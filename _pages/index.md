@@ -6,7 +6,7 @@ permalink: /
 好きな食べ物：生ハム、梅干し  
 好きなゲーム：学園アイドルマスター、ポケモンスリープ  
 好きなキャラ：紫雲清夏（学マス）、大地のの（アイカツ！）  
-![image](/GHPages_website/assets/images/https://www.lisani.jp/admin/wp-content/uploads/2024/09/2409271800-hk-003.jpg)  
+![image](/GHPages_website/assets/images/清夏.jpg)  
 最近の趣味：なわとび  
 好きな教科：生物、化学  
 入っているサークル：漢方研究会（漢方茶の飲みサー）  
